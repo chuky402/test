@@ -1,4 +1,3 @@
-## Page 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras venenatis euismod malesuada. Mauris bibendum, erat vel maximus laoreet, justo sapien dictum magna, vel fringilla felis nulla et felis.
 
